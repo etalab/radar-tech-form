@@ -1,8 +1,16 @@
 # Radar Tech Form
 
-Contenu du formulaire à publier via le Radar Tech
+Contenu du formulaire à publier via le projet Radar Tech.
 
-Ressources :
+# Questions
+
+- [Tronc commun](commun.org)
+- [Datascientistes](datascience.org)
+- Développeurs
+- Designers
+- Encadrants
+
+# Ressources
 
 - [The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.](https://octoverse.github.com/)
 
