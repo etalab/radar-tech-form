@@ -97,9 +97,9 @@ Cf. liste Design Link
 
 : Choix simple
 
-- Dédiée à un projet
-- Sur plusieurs projets
-- En appui ponctuel
+- Un seul projet
+- Un seul projet et en appui ponctuel
+- Plusieurs projets
 - Encadrement et pilotage
 
 *** Format
@@ -127,16 +127,17 @@ A quel service précis êtes-vous rattaché ?
 - Faiblement valorisées
 - Pas valorisées du tout
 
-*** Selon vous, le recours au design dans votre service est
+*** Selon vous, les compétences de design dans votre service sont
 
 : Choix simple
 
-- Insuffisant
-- Pas assez présent ou mal utilisé
-- Suffisant et bien ciblé
-- Très bien intégré
+- Mal ou sous-exploitées
+- Bien exploitées
+- Pas d'avis
 
 *** Selon vous, quels autres besoins en design il y aurait-il dans votre service ?
+
+: Libre
 
 ** Évolution et formation
 
