@@ -4,6 +4,8 @@
 
 ** A quelle expertise principale votre activité se rattache-t-elle ?
 
+: Prioriser trois dominantes :
+
 - Recherche utilisateur 
 - Design graphique
 - Design d'interfaces
@@ -21,9 +23,13 @@
 
 ** Quel est l'intitulé exact de votre fonction ?
 
+: Libre
+
 ** Expérience et formation
 
 *** Combien d'année d'expérience professionnelle avez-vous ?
+
+: Choix simple
 
 - Étudiant
 - Moins d'un an (Jeune diplômé)
@@ -33,6 +39,8 @@
 
 *** Quel est votre niveau d’étude (dernier diplôme obtenu) ?
 
+: Choix simple
+
 - Étudiant
 - Brevet
 - Baccalauréat
@@ -41,6 +49,8 @@
 - Doctorat
 
 *** Dans quel type d'établissement avez-vous effectué vos études ?
+
+: Choix simple
 
 - Université / IUT
 - École de design
@@ -52,35 +62,40 @@
 
 *** Quel est le nom du dernier établissement que vous avez fréquenté ?
 
-> Liste
+: Liste
 
 *** Avez-vous bénéficié d’autres types de formations ou d’expérience ?
 
-> Libre
+: Libre
 
 *** Avez-vous réalisé des recherches en design _/lors de votre cursus universitaire_ ?
 
 ** Compétences, outils et méthodes de design
 
+: Questions à choix multiple
+: Permettre d'ajouter une compétence
+
 *** Quelles sont les compétences métiers que vous utilisez au quotidien (6) ?
 
-CF. liste Design Link
+Cf. liste Design Link
 
 *** Quelles sont vos autres compétences métiers (6) ?
 
-CF. liste Design Link
+Cf. liste Design Link
 
 *** Avez-vous d'autres compétences utiles dans votre rôle (6) ?
 
-CF. liste Design Link
+Cf. liste Design Link
 
 *** Quels outils utilisez-vous ?
 
-CF. liste Design Link
+Cf. liste Design Link
 
 ** Conditions de travail
 
 *** De quelle façon travaillez-vous ?
+
+: Choix simple
 
 - Dédiée à un projet
 - Sur plusieurs projets
@@ -89,11 +104,15 @@ CF. liste Design Link
 
 *** Format
 
+: Choix simple
+
 - Travaille seul.e
 - Au sein d'une équipe
 - Avec plusieurs équipes ou services
 
 *** Service de rattachement
+
+: Choix simple
 
 A quel service précis êtes-vous rattaché ?
 
@@ -101,12 +120,16 @@ A quel service précis êtes-vous rattaché ?
 
 *** Quelle est la perception globale des compétences de design dans votre structure ? 
 
+: Choix simple
+
 - Fortement valorisées
 - Moyennement valorisées
 - Faiblement valorisées
 - Pas valorisées du tout
 
 *** Selon vous, le recours au design dans votre strcuture est
+
+: Choix simple
 
 - Insuffisant
 - Pas assez présent ou mal utilisé
