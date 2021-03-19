@@ -75,15 +75,15 @@
 : Questions à choix multiple
 : Permettre d'ajouter une compétence
 
-*** Quelles sont les compétences métiers que vous utilisez au quotidien (6) ?
+*** Quelles sont les compétences métiers que vous utilisez au quotidien (3) ?
 
 Cf. liste Design Link
 
-*** Quelles sont vos autres compétences métiers (6) ?
+*** Quelles sont vos autres compétences métiers (3) ?
 
 Cf. liste Design Link
 
-*** Avez-vous d'autres compétences utiles dans votre rôle (6) ?
+*** Autres compétences utiles à vos missions (3) ?
 
 Cf. liste Design Link
 

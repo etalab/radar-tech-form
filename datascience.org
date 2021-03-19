@@ -42,7 +42,7 @@
 - Tidymodels
 - Autre
 
-* Compétences supplémentaires (choix multiple)
+* Autres compétences utiles à vos missions (choix multiple)
 
 - Développement web
 - Datavisualisation
