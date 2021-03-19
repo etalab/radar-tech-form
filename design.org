@@ -2,7 +2,7 @@
 
 ** Fonction professionnelle
 
-** A quelle expertise principale votre activité se rattache-t-elle ?
+*** A quelle expertise principale votre activité se rattache-t-elle ?
 
 : Prioriser trois dominantes :
 
@@ -21,7 +21,7 @@
 - Design management
 - Autre
 
-** Quel est l'intitulé exact de votre fonction ?
+*** Quel est l'intitulé exact de votre fonction ?
 
 : Libre
 
