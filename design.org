@@ -116,9 +116,9 @@ Cf. liste Design Link
 
 A quel service précis êtes-vous rattaché ?
 
-** Votre vision du métier de designer dans votre structure
+** Votre vision du métier de designer dans votre service
 
-*** Quelle est la perception globale des compétences de design dans votre structure ? 
+*** Quelle est la perception globale des compétences de design dans votre service ? 
 
 : Choix simple
 
@@ -127,7 +127,7 @@ A quel service précis êtes-vous rattaché ?
 - Faiblement valorisées
 - Pas valorisées du tout
 
-*** Selon vous, le recours au design dans votre strcuture est
+*** Selon vous, le recours au design dans votre service est
 
 : Choix simple
 
@@ -136,7 +136,7 @@ A quel service précis êtes-vous rattaché ?
 - Suffisant et bien ciblé
 - Très bien intégré
 
-*** Selon vous, quels autres besoins en design il y aurait-il dans votre structure ?
+*** Selon vous, quels autres besoins en design il y aurait-il dans votre service ?
 
 ** Évolution et formation
 
