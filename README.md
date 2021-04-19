@@ -6,9 +6,9 @@ Contenu du formulaire à publier via le projet Radar Tech.
 
 - [Tronc commun](commun.org)
 - [Datascientistes](datascience.org)
+- [Designers](design.org)
 - Développeurs
-- Designers
-- Encadrants
+- Encadrants (chefs de projet, coaches, etc.)
 
 # Ressources
 
