@@ -1,31 +1,39 @@
 #+title: Questions pour les datascientistes
 
-* Formation universitaire
+* Formation la plus pertinente
 
-- Ecoles et formations universitaires :
-  - ENSAE
-  - ...
-- Autre ?
+: Champ libre
 
-* Domaines/technologies dominantes (liste ordonnée)
+Quelle école ou formation fut la plus pertinente pour votre métier ?
+
+* Domaines/technologies dominantes
+
+: Liste ordonnée
+
+Quelles sont les technologies sur lesquelles porte principalement
+votre expertise ?
 
 - TAL
 - Traitement du signal
 - Traitement des données temporelles
 - Computer vision
-- Stats et probas
+- Statistiques et probabilités
 
-* Méthodes et algorithmes (choix multiple)
+* Méthodes et algorithmes
+
+: Choix multiple ouvert
 
 - Méthodes Lineaires (regression logistique/lineaire)
-- Arbres de decision / Forets aleatoires 
+- Arbres de decision et forêts aléatoires
 - Méthodes d'ensemble (xgboost, etc) 
-- Reseau de neurones
-- Reseau de neurones profonds (deep learning)
+- Réseau de neurones
+- Réseau de neurones profonds (/deep learning/)
 - Méthodes bayesiennes
-- ... (other, none)
+- Autre (préciser)
 
-* Machine learning framework usage (choix multiple)
+* Vos frameworks de /machine learning/
+
+: Choix multiple ouvert
 
 - SAS
 - SPSS
@@ -40,28 +48,39 @@
 - Prophet
 - Fast.ai
 - Tidymodels
-- Autre
+- Autre (préciser)
 
-* Autres compétences utiles à vos missions (choix multiple)
+* Autres compétences utiles à vos missions
+
+: Liste ordonnée
 
 - Développement web
 - Datavisualisation
 - Machine learning ops
-- Data engineering (gestion de bdd, nettoyage, etc.)
+- Data engineering
 - Communication
 - Management
 
-* Autres outils
+* Publiez-vous vos codes sources ?
 
-Les utilisez-vous ?
+: Choix unique
 
-Pages 23-24-25 des résultats Kaggle
+- Oui, systématiquement
+- Oui, de temps en temps
+- Non
 
-* Usage des bases de données
+* [À valider: Familiarité avec les bases de données]
+
+: Choix multiple ouvert
 
 - MySQL
 - PostgreSQL
 - ...
+- Autre (préciser)
 
+* [À valider: Autres outils]
 
+: Choix multiple ouvert
+
+Cf. pages 23-24-25 des résultats Kaggle.
 
