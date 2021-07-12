@@ -1,16 +1,16 @@
 # Radar Tech Form
 
-Contenu du formulaire à publier via le projet Radar Tech.
+Contenu du formulaire à publier via le projet [Radar Tech](http://github.com/etalab/radar-tech).
 
 # Questions
 
 - [Tronc commun](commun.org)
-- [Datascientistes](datascience.org)
-- [Designers](design.org)
-- Développeurs
-- Encadrants (chefs de projet, coaches, etc.)
+- [Datascience](datascience.org)
+- [Design](design.org)
+- [Développement](dev.org)
+- [Gestion de projet](projet.org)
 
-# Ressources
+# Ressources et inspirations
 
 - [The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.](https://octoverse.github.com/)
 
