@@ -1,12 +1,66 @@
-# Partie commune du questionnaire
+#+title: Partie commune du questionnaire
 
-- Genre
-- Âge
-- Affiliation
-- Métier
-- Fonction (poste)
-- Statut (et accès à ce statut ?)
-- Années d'expérience (privé, public, recherche)
-- [Situtation géographie de l'organisme]
-- [Télétravail ?]
+* Vous
+** Genre
 
+: Choix multiple
+
+- Masculin
+- Féminin
+- Ne préfère pas partager
+
+** Âge
+
+: Champ numérique libre obligatoire
+
+* Situation professionnelle
+** Statut
+
+: Choix multiple
+
+- Titulaire (catégorie A)
+- Titulaire (catégorie B)
+- CDD (catégorie A)
+- CDD (catégorie B)
+- Vacataire
+- Stagiaire
+
+** Affiliation
+
+À quelle administration êtes-vous rattaché·e ?
+
+: Choix multiple
+
+Source: voir avec TALENTS.
+
+* Expérience
+** Années d'expérience dans cette administration ?
+
+: Champ numérique libre optionnel
+
+** Années d'expérience dans ce métier ?
+
+: Champ numérique libre optionnel
+
+
+* Formation
+
+** Quelle est votre formation ?
+
+: Choix multiples
+
+- École d’ingénieur
+- Formation universitaire
+- Formation professionnelle
+- Pas de formation universitaire
+
+** Quel est le dernier diplôme obtenu ?
+
+: Choix multiples
+
+- Brevet
+- Baccalauréat général
+- Baccalauréat professionnel
+- Licence
+- Master
+- Doctorat
