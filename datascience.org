@@ -84,3 +84,26 @@ votre expertise ?
 
 Cf. pages 23-24-25 des résultats Kaggle.
 
+* Votre vision du métier de datascientiste dans votre service
+
+** Quelle est la perception globale des compétences de datascience dans votre service ?
+
+: Choix simple
+
+- Fortement valorisées
+- Moyennement valorisées
+- Faiblement valorisées
+- Pas valorisées du tout
+
+** Selon vous, les compétences de datascience dans votre service sont
+
+: Choix simple
+
+- Mal ou sous-exploitées
+- Bien exploitées
+- Pas d'avis
+
+** Selon vous, quels autres besoins en datascience il y aurait-il dans votre service ?
+
+: Libre
+

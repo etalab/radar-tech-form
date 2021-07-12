@@ -4,7 +4,7 @@
 
 *** A quelle expertise principale votre activité se rattache-t-elle ?
 
-: Prioriser trois dominantes :
+: Liste ordonnée
 
 - Recherche utilisateur 
 - Design graphique
@@ -19,56 +19,10 @@
 - Design stratégique
 - Animation, facilitation
 - Design management
-- Autre
 
 *** Quel est l'intitulé exact de votre fonction ?
 
-: Libre
-
-** Expérience et formation
-
-*** Combien d'année d'expérience professionnelle avez-vous ?
-
-: Choix simple
-
-- Étudiant
-- Moins d'un an (Jeune diplômé)
-- Entre 1 et 3 ans (Junior)
-- Entre 4 et 10 ans (Confirmé)
-- 10+ ans (Senior)
-
-*** Quel est votre niveau d’étude (dernier diplôme obtenu) ?
-
-: Choix simple
-
-- Étudiant
-- Brevet
-- Baccalauréat
-- Licence
-- Master
-- Doctorat
-
-*** Dans quel type d'établissement avez-vous effectué vos études ?
-
-: Choix simple
-
-- Université / IUT
-- École de design
-- École du numérique
-- École d'art
-- École d’ingénieur
-- École de commerce
-- Autre
-
-*** Quel est le nom du dernier établissement que vous avez fréquenté ?
-
-: Liste
-
-*** Avez-vous bénéficié d’autres types de formations ou d’expérience ?
-
-: Libre
-
-*** Avez-vous réalisé des recherches en design _/lors de votre cursus universitaire_ ?
+: Champ libre
 
 ** Compétences, outils et méthodes de design
 
@@ -102,19 +56,13 @@ Cf. liste Design Link
 - Plusieurs projets
 - Encadrement et pilotage
 
-*** Format
+*** Travaillez-vous en équipe ?
 
 : Choix simple
 
-- Travaille seul.e
+- Travaille seul·e
 - Au sein d'une équipe
 - Avec plusieurs équipes ou services
-
-*** Service de rattachement
-
-: Choix simple
-
-A quel service précis êtes-vous rattaché ?
 
 ** Votre vision du métier de designer dans votre service
 

@@ -42,6 +42,11 @@ Source: voir avec TALENTS.
 
 : Champ numérique libre optionnel
 
+- Étudiant
+- Moins d'un an (Jeune diplômé)
+- Entre 1 et 3 ans (Junior)
+- Entre 4 et 10 ans (Confirmé)
+- 10+ ans (Senior)
 
 * Formation
 
@@ -49,10 +54,15 @@ Source: voir avec TALENTS.
 
 : Choix multiples
 
-- École d’ingénieur
-- Formation universitaire
+- Formation universitaire ou en IUT
 - Formation professionnelle
-- Pas de formation universitaire
+- École d’ingénieur
+- École de design
+- École du numérique
+- École d'art
+- École d’ingénieur
+- École de commerce
+- Pas de formation
 
 ** Quel est le dernier diplôme obtenu ?
 
